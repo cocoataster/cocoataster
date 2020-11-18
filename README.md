@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on any iOS project
 - 🤔 I’m looking for help with Twitter growth
 - 📫 How to reach me: `@cocoataster`
-- ⚡ Fun fact: I spend 8 years in the cruise business before becoming a developer 🤓
+- ⚡ Fun fact: I spend 8 years in the cruise industry before becoming a developer 🤓
 
 ### Languages, Skills and Tools
 
