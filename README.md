@@ -4,7 +4,6 @@
 
 ## I'm a Developer, Musician and Chinese Food Lover ❤️
 
-- 🔭 I’m currently working on my first Blog using [Publish](https://github.com/JohnSundell/Publish)
 - 🌱 I’m currently learning [Vapor](https://vapor.codes/) and [SwiftUI](https://www.hackingwithswift.com/100/swiftui)
 - 👯 I’m looking to collaborate on any iOS project
 - 🤔 I’m looking for help with Twitter growth
